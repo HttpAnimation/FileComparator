@@ -1,6 +1,3 @@
-Certainly, here's a sample `README.md` file that you can use for your GitHub repository to describe the Java program for comparing folders and files:
-
-```markdown
 # Folder Comparison Tool
 
 This Java program allows you to compare the names of files in multiple folders and their subfolders, providing details about files with matching names. 
