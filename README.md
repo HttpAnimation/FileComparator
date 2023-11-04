@@ -7,8 +7,8 @@ This Java program allows you to compare the names of files in multiple folders a
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/folder-comparison-tool.git
-   cd folder-comparison-tool
+   git clone https://github.com/HttpAnimation/FileComparator.git
+   cd FileComparator
    ```
 
 2. **Compile the Java code:**
