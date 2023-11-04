@@ -42,9 +42,18 @@ This Java program allows you to compare the names of files in multiple folders a
 
 If you'd like to contribute to this project, please open an issue or submit a pull request.
 
+## Donate
+
+If you find this project helpful and would like to support its development, you can make a donation in cryptocurrency:
+
+- Bitcoin (BTC): [bc1qfq57dqfkawnwdvdczcyx20gqzqre8q2jhcq2qv](bitcoin:bc1qfq57dqfkawnwdvdczcyx20gqzqre8q2jhcq2qv)
+- Monero (XMR): [4Ah4JgyvAXtJ2a5wgGUS3bBeXPMciJo62NMwZ7cY11xF3ok9tfwvhoF2hE8hiSmfdf1yGDpFD8NrcVEk5iFsonWcBCcRdAh](monero:4Ah4JgyvAXtJ2a5wgGUS3bBeXPMciJo62NMwZ7cY11xF3ok9tfwvhoF2hE8hiSmfdf1yGDpFD8NrcVEk5iFsonWcBCcRdAh)
+
+Your support is greatly appreciated.
+
 ## License
 
-This project is licensed under no license you are free to do whatever
+This project is licensed under no license you are free to do whatever.
 
 ## Author
 
