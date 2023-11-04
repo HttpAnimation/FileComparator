@@ -23,8 +23,8 @@ This Java program allows you to compare the names of files in multiple folders a
 
    Example `Folders.ini`:
    ```
-   /path/to/folder1
-   /path/to/folder2
+Folder1=/path/to/first/folder
+Folder2=/path/to/second/folder
    ```
 
 4. **Run the program:**
