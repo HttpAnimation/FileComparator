@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Folder Comparison Tool</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        code {
+            background-color: #333;
+            color: #fff;
+            padding: 5px;
+            border-radius: 4px;
+        }
+        pre code {
+            display: block;
+        }
+        ul {
+            list-style: disc;
+            padding-left: 20px;
+        }
+        a {
+            color: #1E90FF;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Folder Comparison Tool</h1>
+
+        <p>This Java program allows you to compare the names of files in multiple folders and their subfolders, providing details about files with matching names.</p>
+
+        <h2>Getting Started</h2>
+
+        <ol>
+            <li><strong>Clone the repository:</strong></li>
+            <pre><code>git clone https://github.com/HttpAnimation/FileComparator.git
+cd FileComparator</code></pre>
+
+            <li><strong>Compile the Java code:</strong></li>
+            <pre><code>javac FileComparator.java</code></pre>
+
+            <li><strong>Create a configuration file (Folders.ini):</strong><br>
+            Create a text file named <code>Folders.ini</code> in the same directory with the paths of the folders you want to compare, one path per line.<br>
+            Example <code>Folders.ini</code>:
+            <pre><code>Folder1=/path/to/first/folder
+Folder2=/path/to/second/folder</code></pre>
+
+            <li><strong>Run the program:</strong></li>
+            <pre><code>java FileComparator</code></pre>
+        </ol>
+
+        <h2>Features</h2>
+
+        <ul>
+            <li>Recursively compares the names of files in specified folders and subfolders.</li>
+            <li>Displays details of files with matching names, including size and path in each folder.</li>
+        </ul>
+
+        <h2>Contributing</h2>
+        <p>If you'd like to contribute to this project, please open an issue or submit a pull request.</p>
+
+        <h2>License</h2>
+        <p>This project is licensed under no license; you are free to do whatever.</p>
+
+        <h2>Author</h2>
+        <ul>
+            <li>HttpAnimations</li>
+        </ul>
+    </div>
+</body>
+</html>
