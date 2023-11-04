@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
-public class FolderComparator {
+public class FileComparator {
     public static void main(String[] args) {
         // Load folder paths from Folders.ini
         Properties properties = new Properties();
