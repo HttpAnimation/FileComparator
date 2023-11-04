@@ -44,10 +44,8 @@ If you'd like to contribute to this project, please open an issue or submit a pu
 
 ## License
 
-This project is licensed under no license you are free to do what ever
+This project is licensed under no license you are free to do whatever
 
 ## Author
 
 - HttpAnimations
-
-Feel free to customize this `README.md` to match your project's specific details and requirements.
